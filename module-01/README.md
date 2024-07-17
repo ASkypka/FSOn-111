@@ -13,6 +13,18 @@
 - Зображення: `img`
 - Абсолютний та відносний шлях до файлу
 
-## Макет:
+## Посилання на Макет:
 
 https://www.figma.com/design/SHNrA7r9RBXLqDUVYZjL1g/Simply-Chocolate?node-id=609-1206&t=06ASuL0oijr6mdbW-0
+
+## Посилання на плагіни Visual Studio Code
+
+- https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+- https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
+
+- https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
+
+- https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
