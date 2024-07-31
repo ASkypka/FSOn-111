@@ -1,0 +1,14 @@
+ul,
+ol {
+  list-style-type: none;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.72px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
