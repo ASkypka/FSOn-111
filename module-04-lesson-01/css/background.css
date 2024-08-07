@@ -1,0 +1,7 @@
+.background {
+  width: 900px;
+  height: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 10px solid rgba(0, 0, 255, 0.4);
+}
