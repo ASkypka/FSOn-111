@@ -3,5 +3,15 @@
   height: 400px;
   margin: 0 auto;
   padding: 20px;
+
+
+  background-color: #1e1823;
   border: 10px solid rgba(0, 0, 255, 0.4);
+  background-image: linear-gradient(rgba(30, 24, 35, 0.4), rgba(30, 24, 35, 0.4)), url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top left;
+  /* background-origin: border-box;
+  background-clip: border-box; */
+  color: #ffffff;
 }

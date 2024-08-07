@@ -37,4 +37,16 @@ a {
   height: 50px;
   border-radius: 50%;
   background-color: #ffffff;
+  color: black;
+
+}
+
+svg {
+  fill: currentColor;
+}
+
+.social-list-link:hover,
+.social-list-link:focus {
+  background-color: green;
+  color: blueviolet;
 }

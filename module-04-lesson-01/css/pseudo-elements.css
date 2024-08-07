@@ -40,10 +40,34 @@ a {
   margin-bottom: 50px;
 }
 
+.title-psevdo::before {
+  content: "";
+}
+
+.title-psevdo::after {
+  content: '';
+  width: 200px;
+  height: 4px;
+  background-color: blue;
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
 .task {
   display: flex;
   align-items: center;
   column-gap: 10px;
+}
+
+.task::before {
+  content: "";
+  background-image: url(../images/pattern-bg.jpg);
+  width: 18px;
+  height: 18px;
 }
 
 .task:not(:last-child) {
